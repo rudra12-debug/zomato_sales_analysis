@@ -1,0 +1,101 @@
+restaurant_name,location,cuisines,rate,approx_cost(for two people),online_order
+Biryani House,Delhi,North Indian,2.7,385,Yes
+Urban Tadka,Bangalore,Chinese,2.7,1237,Yes
+Spice Hub,Hyderabad,Fast Food,4.2,1224,No
+Food Palace,Hyderabad,Italian,4.6,1365,Yes
+Biryani House,Hyderabad,Chinese,4.3,220,No
+Curry Nation,Hyderabad,Biryani,2.7,256,Yes
+Biryani House,Chennai,Italian,2.8,790,No
+Food Palace,Delhi,Biryani,4.0,1009,Yes
+Spice Hub,Hyderabad,Biryani,3.6,769,No
+Spice Hub,Chennai,Italian,4.6,288,Yes
+Curry Nation,Bangalore,Biryani,4.6,1464,No
+Pizza Corner,Bangalore,Italian,2.5,1449,No
+Urban Tadka,Mumbai,North Indian,3.0,946,Yes
+Pizza Corner,Delhi,Italian,2.6,1106,No
+Urban Tadka,Hyderabad,Fast Food,4.1,873,No
+Biryani House,Hyderabad,North Indian,4.7,751,No
+Biryani House,Delhi,Biryani,4.2,1469,No
+Urban Tadka,Delhi,Biryani,3.5,1163,Yes
+Pizza Corner,Hyderabad,North Indian,3.8,926,No
+Spice Hub,Mumbai,Italian,3.8,559,No
+Food Palace,Bangalore,Italian,4.1,981,No
+Biryani House,Bangalore,Biryani,4.5,209,Yes
+Urban Tadka,Chennai,Chinese,3.5,545,No
+Pizza Corner,Bangalore,Italian,3.9,398,No
+Urban Tadka,Hyderabad,Chinese,3.8,506,No
+Biryani House,Delhi,North Indian,3.0,608,No
+Spice Hub,Chennai,Chinese,4.7,479,Yes
+Pizza Corner,Delhi,Chinese,4.8,1141,No
+Urban Tadka,Hyderabad,Chinese,4.1,1375,Yes
+Food Palace,Delhi,North Indian,3.8,568,No
+Urban Tadka,Mumbai,Fast Food,2.5,1015,No
+Curry Nation,Delhi,Biryani,2.8,857,No
+Curry Nation,Bangalore,North Indian,4.8,752,No
+Curry Nation,Delhi,Italian,2.9,1294,Yes
+Curry Nation,Hyderabad,Chinese,3.9,1455,No
+Biryani House,Chennai,Chinese,4.9,275,Yes
+Food Palace,Bangalore,Biryani,4.3,638,Yes
+Urban Tadka,Mumbai,Fast Food,4.3,655,No
+Urban Tadka,Delhi,North Indian,3.1,618,No
+Pizza Corner,Hyderabad,Fast Food,4.4,1123,No
+Pizza Corner,Bangalore,Chinese,4.4,782,No
+Spice Hub,Delhi,Chinese,4.3,832,No
+Curry Nation,Bangalore,Chinese,4.4,740,No
+Biryani House,Bangalore,Chinese,4.4,973,Yes
+Curry Nation,Delhi,Italian,4.0,1089,No
+Curry Nation,Chennai,North Indian,2.6,354,No
+Urban Tadka,Delhi,Fast Food,4.6,932,No
+Spice Hub,Bangalore,Chinese,3.8,1068,No
+Biryani House,Bangalore,Italian,3.2,1044,No
+Spice Hub,Chennai,Biryani,3.3,571,No
+Urban Tadka,Bangalore,Fast Food,3.6,237,Yes
+Biryani House,Mumbai,Fast Food,5.0,1140,No
+Urban Tadka,Mumbai,Biryani,2.9,718,No
+Urban Tadka,Hyderabad,Biryani,4.7,241,Yes
+Biryani House,Chennai,North Indian,3.8,1223,No
+Curry Nation,Mumbai,Chinese,4.1,1157,Yes
+Curry Nation,Bangalore,Italian,2.5,969,Yes
+Food Palace,Delhi,North Indian,4.8,945,No
+Urban Tadka,Chennai,Fast Food,3.0,258,Yes
+Food Palace,Mumbai,Biryani,3.6,452,No
+Urban Tadka,Hyderabad,Biryani,4.0,346,No
+Food Palace,Bangalore,Biryani,3.6,1356,Yes
+Curry Nation,Hyderabad,Biryani,4.1,1480,Yes
+Food Palace,Mumbai,North Indian,2.9,1160,Yes
+Curry Nation,Chennai,Italian,3.8,570,Yes
+Food Palace,Delhi,North Indian,3.6,308,Yes
+Biryani House,Bangalore,North Indian,3.4,1302,No
+Pizza Corner,Hyderabad,Italian,3.7,617,No
+Curry Nation,Hyderabad,Italian,3.2,449,No
+Food Palace,Delhi,Biryani,4.9,501,Yes
+Pizza Corner,Chennai,Italian,4.6,479,Yes
+Pizza Corner,Chennai,Chinese,2.8,1433,Yes
+Spice Hub,Delhi,Chinese,3.1,742,Yes
+Biryani House,Mumbai,Biryani,4.1,627,Yes
+Pizza Corner,Chennai,North Indian,4.2,696,Yes
+Biryani House,Mumbai,Biryani,4.3,213,No
+Pizza Corner,Bangalore,Chinese,3.6,219,No
+Biryani House,Mumbai,Biryani,3.1,1044,Yes
+Pizza Corner,Hyderabad,Italian,2.9,1390,Yes
+Pizza Corner,Hyderabad,North Indian,4.9,1184,Yes
+Urban Tadka,Mumbai,Biryani,2.8,661,Yes
+Spice Hub,Chennai,Biryani,3.2,1098,No
+Curry Nation,Chennai,Italian,2.9,759,Yes
+Food Palace,Chennai,Chinese,3.8,209,No
+Food Palace,Delhi,Italian,3.7,363,Yes
+Curry Nation,Bangalore,Fast Food,4.0,377,Yes
+Biryani House,Hyderabad,North Indian,4.2,634,Yes
+Urban Tadka,Bangalore,North Indian,3.4,1057,No
+Curry Nation,Chennai,Chinese,4.7,1197,Yes
+Urban Tadka,Chennai,Fast Food,4.0,831,Yes
+Pizza Corner,Chennai,Biryani,2.8,604,Yes
+Spice Hub,Delhi,Biryani,3.0,759,Yes
+Spice Hub,Chennai,Chinese,4.7,727,Yes
+Biryani House,Chennai,North Indian,3.3,282,No
+Urban Tadka,Chennai,North Indian,2.9,363,Yes
+Food Palace,Chennai,North Indian,3.8,977,No
+Spice Hub,Delhi,Chinese,4.9,259,No
+Spice Hub,Mumbai,Fast Food,4.1,410,No
+Urban Tadka,Hyderabad,Fast Food,3.5,1203,No
+Food Palace,Hyderabad,Biryani,4.8,406,Yes
